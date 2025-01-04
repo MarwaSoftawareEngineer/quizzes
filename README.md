@@ -6,4 +6,5 @@ In this task, I developed a mobile application that covers essential quiz functi
 - **Answer Submission:** Lets users select an option and submit their answer.
 - **Score Calculation:** Tracks the user's score based on correct answers.
 - **Result Screen:** Shows the final score along with correct and incorrect answers.
+
 Demo Project: https://www.youtube.com/watch?v=S1SS0cYghVw
